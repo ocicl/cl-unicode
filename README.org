@@ -1,0 +1,15 @@
+* cl-unicode
+
+CL-UNICODE is a library which provides Common Lisp implementations
+with knowledge about Unicode characters including their name, their
+general category, the scripts and blocks they belong to, their
+numerical value, and several other properties. It also provides the
+ability to replace the standard syntax for reading Lisp characters
+with one that is Unicode-aware and is used to enhance CL-PPCRE with
+Unicode properties.
+
+|---------+----------------------------------------------|
+| source  | file:http://weitz.de/files/cl-unicode.tar.gz |
+| version | 0.1.4                                        |
+| systems | cl-unicode                                   |
+|---------+----------------------------------------------|

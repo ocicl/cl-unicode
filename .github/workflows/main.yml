@@ -1,0 +1,9 @@
+on: [push]
+
+jobs:
+  ocicl_job:
+    runs-on: ubuntu-latest
+    name: A job to do something
+    steps:
+      - id: do-something
+        uses: ocicl/ocicl-action@main
