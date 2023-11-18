@@ -10,6 +10,6 @@ Unicode properties.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/edicl/cl-unicode.git |
-| commit  | 2790a6b                                     |
+| commit  | 07e7ff5                                     |
 | systems | cl-unicode                                  |
 |---------+---------------------------------------------|
